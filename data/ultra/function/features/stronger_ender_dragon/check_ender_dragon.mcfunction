@@ -1,1 +1,0 @@
-execute if entity @e[type=ender_dragon] as @e[type=ender_dragon, tag=!reinforced] run function ultra:features/stronger_ender_dragon/strengthen_ender_dragon
