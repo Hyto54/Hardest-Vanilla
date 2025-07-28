@@ -1,0 +1,1 @@
+execute if entity @e[type=wither] as @e[type=wither, tag=!reinforced] run function ultra:features/stronger_wither/strengthen_wither
